@@ -217,6 +217,29 @@ top: 0px;
     }
 }
 
+@media (max-width: 500px){
+    .enlace{
+        padding-left: 20px;
+    }
+    nav ul li a{
+        font-size: 16px;
+    }
+    footer{
+
+         margin-bottom:0px
+    }
+
+    iframe{
+        margin-bottom:0px;
+        width: 400px;
+        height: 300px;
+
+    }
+.boxx{
+    margin-bottom: 50px;
+    
+}
+}
 @media (max-width: 858px){
     .checkbtn{
         display: block;
