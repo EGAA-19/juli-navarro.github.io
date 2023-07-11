@@ -235,13 +235,10 @@ top: 0px;
         height: 300px;
 
     }
-.boxx{
-    heigth: 100vh;
-    
-}
 
-h1{
-    font-size: 10px;
+
+.hijo{
+    margin-bottom: 10px;
 }
     
 }
